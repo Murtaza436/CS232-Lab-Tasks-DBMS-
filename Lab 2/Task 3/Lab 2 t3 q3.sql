@@ -1,0 +1,1 @@
+truncate table Employee_info cascade;
